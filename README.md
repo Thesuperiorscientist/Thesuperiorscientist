@@ -1,3 +1,7 @@
+![Kaung Myat - Developer Banner](github-banner.png)
+
+---
+
 # KAUNG MYAT
 
 ### Computer Science Student | Data Science | AI & Research
