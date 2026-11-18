@@ -50,7 +50,6 @@ My interests include:
 | CRIM | Web Application Development |
 | REMIT | FinTech & Intelligent Systems |
 | Protinus | Software Development |
-| PhytoLensAI | Computational Research |
 
 ## GITHUB STATISTICS
 
